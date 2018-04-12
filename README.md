@@ -12,3 +12,5 @@ ZCZC W04 i'm completing W04-Demos! Yea-Yeahhh!
 ZCZC W05 finally, i'm completing W05-Demos....
 
 ZCZC W06 W06-Demos are officialy complete.
+
+ZCZC W07 W07-Demos accomplished... i'll learn again someday
