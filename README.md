@@ -18,3 +18,5 @@ ZCZC W07 W07-Demos accomplished
 ZCZC W08 yes! i completes this W08-demo!
 
 ZCZC W09 i'm now completing my own demos... i'll continue at tomorrow
+
+ZCZC W10 aku sudah mencoba demo hari ini... nanti kulanjukan besok
